@@ -1,9 +1,0 @@
-.content-style {
-  margin-top: 3px;
-}
-
-@media only screen and (max-width: 768px) {
-  .content-style {
-    margin-top: 0;
-  }
-}

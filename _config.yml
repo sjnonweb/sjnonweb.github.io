@@ -1,7 +1,7 @@
 # Base blog settings
 baseurl                      : "" # the subpath of your site,                         # e.g. /blog/
                               # set to '' in case of hosting on GitHub
-url                          : "https://sjnonweb.github.io" # the base hostname & protocol for your site
+url                          : "https://sjnonweb.in" # the base hostname & protocol for your site
                                   # `http://<username>.github.io` - for GitHub
 
 blog:
@@ -28,15 +28,15 @@ blog:
 author:
   fullname                  : Sajan Mishra
   rss                       : true # generate RSS feed and show it's icon in header
-  mail                      : your@email.com # change to your e-mail address
-  twitter                   : twitter-user-name
-  github                    : github-user-name
-  youtube                   : youtube-user-name
-  stackoverflow             : stackoverflow-user-name
-  disqus                    : dactl # your disqus site name
-  google_analytics          : # 'UA-XXXXXXXX-X'
-  photo                     : "uploads/me2.png"
-  photo2x                   : "uploads/me.png"
+  mail                      : sjnmishra8@gmail.com # change to your e-mail address
+  #twitter                   : twitter-user-name
+  github                    : sjnonweb
+  #youtube                   : youtube-user-name
+  stackoverflow             : sjnonweb
+  #disqus                    : dactl # your disqus site name
+  #google_analytics          : # 'UA-XXXXXXXX-X'
+  #photo                     : "uploads/me2.png"
+  #photo2x                   : "uploads/me.png"
 
 
 

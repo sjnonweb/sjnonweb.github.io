@@ -1,11 +1,11 @@
 # Base blog settings
-baseurl                      : "/dactl/" # the subpath of your site,                         # e.g. /blog/
+baseurl                      : "" # the subpath of your site,                         # e.g. /blog/
                               # set to '' in case of hosting on GitHub
-url                          : "" # the base hostname & protocol for your site
+url                          : "https://sjnonweb.github.io" # the base hostname & protocol for your site
                                   # `http://<username>.github.io` - for GitHub
 
 blog:
-  title                      : dactl
+  title                      : sjnonweb
   description                  : >
                                this should contain a proper description
 
@@ -26,7 +26,7 @@ blog:
 
 # Author info
 author:
-  fullname                  : Your Name
+  fullname                  : Sajan Mishra
   rss                       : true # generate RSS feed and show it's icon in header
   mail                      : your@email.com # change to your e-mail address
   twitter                   : twitter-user-name
